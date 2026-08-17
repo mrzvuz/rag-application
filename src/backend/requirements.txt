@@ -84,7 +84,7 @@ frozenlist==1.7.0
     #   aiosignal
 greenlet==3.2.3
     # via sqlalchemy
-griffelib==2.0.2
+griffelib==2.1.0
     # via openai-agents
 h11==0.16.0
     # via
